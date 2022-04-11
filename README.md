@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+#### I'm Francisco Ponce, Frontend Developer, Python enthusiast and Ramen lover.🍜🍲
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoEP&layout=compact)](https://github.com/franciscoep/github-readme-stats)
+
+
 
 <!--
 **FranciscoEP/FranciscoEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
